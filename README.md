@@ -78,7 +78,12 @@ and the demo that verifies it. The offline tools that build the asset
 (`tools/`, `sim/` and `research/` in `FORMAT.md`) and the corpora are not
 included.
 
-## Font
+## License
+
+The code and documentation are MIT-licensed (see `LICENSE`). The font
+asset below is not covered by the MIT license.
+
+### Font
 
 The glyph atlas in `fonts/NotoSansKannada/` is rendered from
 [Noto Sans Kannada](https://fonts.google.com/noto/specimen/Noto+Sans+Kannada),
