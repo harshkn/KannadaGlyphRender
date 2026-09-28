@@ -1,0 +1,7 @@
+# Test books are copyrighted; never publish them.
+demo/test_books/
+# Build and intermediate outputs
+demo/demo_render
+*.ppm
+.DS_Store
+demo/comparison.png
